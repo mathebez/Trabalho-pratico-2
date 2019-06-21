@@ -1,5 +1,8 @@
 # Trabalho-pratico-2 
 Técnicas de Programação – 2019.1 – Prof. Wendley Nome: Matheus Bezerra Dias - Matrícula: 428887
+
+-As questões escolhidas foram 1,2 e 4 respecivamente:
+
 1º Questão:
 Ao executar o prorgrama,o mesmo lerá dados de um aquivo .txt chamado usuarios e gerará um novo arquivo .txt chamado relatório com os dados em bytes que cada usuário utiliza tranformados em megabytes junto as porcentagens que cada usuário está utilizando em relação ao total.
 
